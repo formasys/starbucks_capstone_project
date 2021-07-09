@@ -4,4 +4,6 @@ This project is one of the capstone projects available in Udacity Data Science n
 # Project Overview:
 The purpose of this project to complete an exploratory analysis to determine which demographic group responds best to which offer type. We will also create and compare different predictive models to predict whether a customer offer combination will be successful
 
+# Blog post:
+
 Link to medium blog post: https://anouardalli-formasys.medium.com/udacity-starbucks-capstone-project-2aae594fd74c
